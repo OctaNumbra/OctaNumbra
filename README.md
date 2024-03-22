@@ -1,6 +1,6 @@
 Olá meu nome é João Pedro mas pode me chamar de Brazuna
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctaNumbra&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctaNumbra&layout=donut&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Olá, sou @OctaNumbra
 - 📫 Contato brazuna.jpedro@gmail.com
