@@ -4,7 +4,6 @@ Olá meu nome é João Pedro mas pode me chamar de Brazuna
 
 - 👋 Olá, sou @OctaNumbra
 - 📫 Contato brazuna.jpedro@gmail.com
-- 😄 Pronomes: he/him
 
 <!---
 OctaNumbra/OctaNumbra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
